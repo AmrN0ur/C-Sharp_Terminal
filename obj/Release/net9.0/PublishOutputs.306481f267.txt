@@ -1,6 +1,0 @@
-/home/an/Documents/Programming/Projects/C-Sharp_Terminal/bin/Release/net9.0/publish/an-terminal
-/home/an/Documents/Programming/Projects/C-Sharp_Terminal/bin/Release/net9.0/publish/an-terminal.dll
-/home/an/Documents/Programming/Projects/C-Sharp_Terminal/bin/Release/net9.0/publish/an-terminal.deps.json
-/home/an/Documents/Programming/Projects/C-Sharp_Terminal/bin/Release/net9.0/publish/an-terminal.runtimeconfig.json
-/home/an/Documents/Programming/Projects/C-Sharp_Terminal/bin/Release/net9.0/publish/an-terminal.pdb
-/home/an/Documents/Programming/Projects/C-Sharp_Terminal/bin/Release/net9.0/publish/AN.dll
