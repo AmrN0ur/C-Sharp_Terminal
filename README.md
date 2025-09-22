@@ -31,5 +31,5 @@
 
 1. استنساخ المشروع:
 ```bash
-git clone https://github.com/YourUsername/AN-Terminal.git
-cd AN-Terminal
+git clone https://github.com/AmrN0ur/C-Sharp_Terminal.git
+cd C-Sharp_Terminal
